@@ -25,9 +25,8 @@ https://github.com/user-attachments/assets/86367707-f534-4388-9937-cd505f1b5b08
 
 ## 🗄️ Database Structure
 
-*Coming soon: Database schema screenshot*
-
-<!-- Place your database screenshot here -->
+*Database schema screenshot*
+<img width="1919" height="1015" alt="Screenshot 2025-09-02 203831" src="https://github.com/user-attachments/assets/4e00e5d6-a078-4b6d-b4e6-2d745810cde9" />
 
 ---
 
