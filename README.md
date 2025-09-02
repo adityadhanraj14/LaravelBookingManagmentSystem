@@ -17,9 +17,9 @@ This application demonstrates a basic booking management system built with Larav
 
 ## 📹 Demo Video
 
-*Coming soon: Project walkthrough video*
+*Project walkthrough video*
 
-<!-- Place your project demo video here -->
+https://github.com/user-attachments/assets/86367707-f534-4388-9937-cd505f1b5b08
 
 ---
 
